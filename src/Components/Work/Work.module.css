@@ -1,0 +1,84 @@
+.main {
+    padding-inline: 1.5rem;
+}
+
+
+.main h6 {
+    font-size: 10.5px;
+    letter-spacing: 5px;
+    font-weight: normal;
+    color: rgb(166,155,173);
+    margin-block: 3rem 1.5rem;
+}
+
+.main h3 {
+    font-size: 18px;
+    font-family: Playfair Display,Georgia,serif;
+    letter-spacing: 3.5px;
+    font-weight: 550;
+    margin-bottom: 2rem;
+
+}
+
+.main .workRow {
+    padding-inline-end: .5rem;
+    
+}
+
+.main .images {
+    margin-block: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.main .images img {
+    width: 97.5%;
+    height: 25rem;
+    position: absolute;
+    z-index: 1;
+}
+
+.main .colored {
+    background-color: rgb(54,147,230);
+    width: 104%;
+    height: 25rem;
+}
+
+.main img:hover{
+    z-index: -1;
+}
+
+.colored>button {
+    color: white;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid;
+    padding: 0px;
+}
+
+.colored h6 {
+    color: rgb(155,197,237);
+    font-weight: light;
+    font-size: 13px;
+    margin-block: 1.5rem;
+}
+
+.bottom {
+    margin-top: 11rem;
+}
+
+.bottom button {
+    background-color: rgb(155,197,237);
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.button {
+    background-color: rgb(12,110,252);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: .4rem .6rem;
+    margin-block: 1rem 3rem;
+}

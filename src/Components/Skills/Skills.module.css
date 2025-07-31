@@ -1,0 +1,38 @@
+.main {
+    padding: 8.5rem 2rem;
+}
+
+
+.main h6 {
+    font-size: 10.5px;
+    letter-spacing: 5px;
+    font-weight: normal;
+    color: rgb(166,155,173);
+    margin-block: 3rem 2rem;
+}
+
+.main h3 {
+    font-size: 18px;
+    font-family: Playfair Display,Georgia,serif;
+    letter-spacing: 3.5px;
+    font-weight: 550;
+    margin-bottom: 3rem;
+
+}
+
+.main p {
+    font-size: 1rem;
+    color: rgb(72,73,75);
+    font-weight: 350;
+}
+
+.main li {
+  list-style-type: none;
+  margin-block: .7rem;
+  font-weight: 350;
+}
+
+.main .bars {
+    height: 7px;
+    color: #000;
+}

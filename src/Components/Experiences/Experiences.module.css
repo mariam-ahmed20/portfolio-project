@@ -1,0 +1,70 @@
+.main {
+    position: relative;
+}
+
+.main h6 {
+    font-size: 10.5px;
+    letter-spacing: 5px;
+    font-weight: normal;
+    color: rgb(166,155,173);
+    margin-block: 3rem 2rem;
+}
+
+.main h3 {
+    font-size: 18px;
+    font-family: Playfair Display,Georgia,serif;
+    letter-spacing: 3.5px;
+    font-weight: 550;
+    margin-bottom: 3rem;
+
+}
+
+
+.main .line {
+    width: 3px;
+    height: 81%;
+    position: absolute;
+    background-color: rgb(242,242,246);
+    left: 2.5rem;
+    top: 5.2rem;
+    z-index: -1;
+}
+
+
+.bubble {
+    background-color: rgb(242,242,246);
+    padding: 2%;
+    margin: 1% 2%;
+}
+
+.bubble h4 {
+    font-size: 1.3rem;
+    font-weight: normal;
+}
+
+.bubble span {
+    color: rgb(144,146,149);
+    font-size: 1rem;
+}
+
+.bubble p {
+    font-size: 17px;
+    font-weight: lighter;
+    color: rgb(72,73,75);
+}
+
+.pencils {
+    display: flex;
+    justify-content: center;
+    align-items:first start;
+}
+
+.pencil {
+    width: 60px;
+    margin-top: 1.5rem;
+    font-size: 22px;
+    padding: 15px;
+    color: white;
+    border: 5px solid rgb(242,242,246);
+    border-radius: 50%;
+}

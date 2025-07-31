@@ -1,0 +1,82 @@
+.main {
+    padding: 4.5rem 2rem;
+}
+
+.main h6 {
+    font-size: 10.5px;
+    letter-spacing: 5px;
+    font-weight: normal;
+    color: rgb(166,155,173);
+    margin-block: 3rem 2rem;
+}
+
+.main h3 {
+    font-size: 18px;
+    font-family: Playfair Display,Georgia,serif;
+    letter-spacing: 3.5px;
+    font-weight: 550;
+    margin-bottom: 3rem;
+
+}
+
+.main p {
+    font-size: 1rem;
+    color: rgb(72,73,75);
+    font-weight: 350;
+}
+
+.main span {
+    color: rgb(50, 49, 49);
+    font-weight: 600;
+}
+
+.icon {
+    padding: 1.6rem;
+    margin: .7rem;
+    box-shadow: 0 2px 30px rgba(0, 0, 0, 0.145);
+}
+
+.icon i{
+    font-size: 29px;
+    margin-inline: -5px;
+
+}
+
+.icon h5 {
+    font-size: 16.3px;
+    color: black;
+    font-weight: normal;
+    padding-block: 1rem;
+}
+
+.iconOne {
+    border-bottom: 2px solid #2c98f0;
+}
+
+.iconTwo {
+    border-bottom: 2px solid #ec5453;
+}
+
+.iconThree {
+    border-bottom: 2px solid #f9bf3f;
+}
+
+.iconFour {
+    border-bottom: 2px solid #a84cb8;
+}
+
+.iconOne i {
+    color: #2c98f0;
+}
+
+.iconTwo i {
+    color: #ec5453;
+}
+
+.iconThree i {
+    color: #f9bf3f;
+}
+
+.iconFour i {
+    color: #a84cb8;
+}
