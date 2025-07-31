@@ -55,8 +55,7 @@
 
 .pencils {
     display: flex;
-    justify-content: center;
-    align-items:first start;
+    align-items:start;
 }
 
 .pencil {
