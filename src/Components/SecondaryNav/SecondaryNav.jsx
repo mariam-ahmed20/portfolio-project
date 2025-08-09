@@ -10,9 +10,9 @@ const SecondaryNav = () => {
     <>
         <Navbar>
             <Nav className={`me-auto ${style.navbar}`}>
-                <Link href="#">Graphic Design</Link>
-                <Link href="">Apps</Link>
-                <Link href="">Software</Link>
+                <Link to="#">Graphic Design</Link>
+                <Link to="">Apps</Link>
+                <Link to="">Software</Link>
             </Nav>
         </Navbar>
         
